@@ -19,14 +19,14 @@ int soma = operador1 + operador2;
 int subtracao = operador1 - operador2;
 int multiplicacao = operador1 * operador2;
 int divisao = operador1 / operador2;
-int resto = oeprador1 % operador2; // modulo, não é percentual
+int resto = operador1 % operador2; // modulo, não é percentual
 
 // saida
 printf("%i + %i = %i\n", operador1, operador2, soma);
 printf("%i - %i = %i\n", operador1, operador2, subtracao);
 printf("%i * %i = %i\n", operador1, operador2, multiplicacao);
 printf("%i / %i = %i\n", operador1, operador2, divisao);
-divisao = (oeprador1 * 1,0f) / operador2
+//divisao = (oeprador1 * 1,0f) / operador2;
 printf("%i / %i = %f\n", operador1, operador2, divisao);
 
 // funcoes da matematica
