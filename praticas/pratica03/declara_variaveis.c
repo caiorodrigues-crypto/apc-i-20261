@@ -6,9 +6,13 @@ int main() {
 // em seguida, imprimir todos esses valores utilizando
 // os especificadores de formato corretos;
 
+// Declaração das variáveis
+    int idade;
+    char sexo;
+    float altura;
+    double peso;
 
-
-
+// entrada de dados 
 
 
 
