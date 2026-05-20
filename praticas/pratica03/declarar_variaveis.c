@@ -34,6 +34,7 @@ int main() {
    while(getchar() !='\n'); // limpar o buffer
 
 // Saida de dados
+   printf("___________________________________")
    printf("voce tem %i anos\n", idade);
    printf("seu sexo eh %c\n", sexo);
    printf("sua altura eh %.2f\n", altura);
